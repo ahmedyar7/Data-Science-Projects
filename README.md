@@ -23,20 +23,22 @@ Here are some of the key projects included in this repository:
 
 1. **College Major Analyzer** 👨‍🎓
    - Perform Data Analsis for the Different College Majors
-   - **Tools:** Pandas, Matplotlib
+   - **Tools:** _Pandas_, _Matplotlib_
 2. **Programming Language Analyzer** 👨‍💻
 
    - Perfrom Data Analysis to find the Popularity of Different languages over the time
-   - **Tools:** Pandas, Matplotlib
+   - **Tools:** _Pandas_, _Matplotlib_
 
 3. **LEGO Sets Analysis** 🧱
    - Analyze the evolution of LEGO sets over time.
-   - **Tools:** Pandas, Matplotlib
-   - 
+   - **Tools:** _Pandas_, _Matplotlib_
+   -
 4. **Google Trends Analysis** 📉📊
    - Analyze the different Google Trends sets over time.
-   - **Tools:** Pandas, Matplotlib
-
+   - **Tools:** _Pandas_, _Matplotlib_
+5. **Play Store Analysis** 📊
+   - Analyze the different Google Play Store Application performances over different parameters.
+   - **Tools:** _Pandas_, _Plotly_
 
 ## Installation
 
@@ -54,6 +56,12 @@ To run these projects locally, follow these steps:
    ```bash
    python -m venv env
    source env/bin/activate  # On Windows use `env\Scripts\activate`
+   ```
+
+3. Install Libraries
+
+   ```
+   pip install pandas matplotlib plotly
    ```
 
 <div align="center">
