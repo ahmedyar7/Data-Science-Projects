@@ -47,8 +47,8 @@ To run these projects locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/data-science-visualization-projects.git
-   cd data-science-visualization-projects
+   git clone https://github.com/ahmedyar7/Data-Science-n-Visualization-Projects.git
+   cd Data-Science-n-Visualization-Projects
    ```
 
 2. Create a virtual environment and activate it:
