@@ -32,7 +32,7 @@ Here are some of the key projects included in this repository:
 3. **LEGO Sets Analysis** 🧱
    - Analyze the evolution of LEGO sets over time.
    - **Tools:** _Pandas_, _Matplotlib_
-   -
+   
 4. **Google Trends Analysis** 📉📊
    - Analyze the different Google Trends sets over time.
    - **Tools:** _Pandas_, _Matplotlib_
