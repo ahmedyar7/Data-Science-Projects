@@ -32,13 +32,15 @@ Here are some of the key projects included in this repository:
 3. **LEGO Sets Analysis** 🧱
    - Analyze the evolution of LEGO sets over time.
    - **Tools:** _Pandas_, _Matplotlib_
-   
 4. **Google Trends Analysis** 📉📊
    - Analyze the different Google Trends sets over time.
    - **Tools:** _Pandas_, _Matplotlib_
 5. **Play Store Analysis** 📊
    - Analyze the different Google Play Store Application performances over different parameters.
    - **Tools:** _Pandas_, _Plotly_
+6. **Nobel Laurates Analysis** 🏅
+   - Analyze different noble laurates on different parameter
+   - **Tools:** _Pandas_, _Plotly_, _Seaborn_, _Numpy_, _Plotly_.
 
 ## Installation
 
@@ -61,15 +63,21 @@ To run these projects locally, follow these steps:
 3. Install Libraries
 
    ```
-   pip install pandas matplotlib plotly
+   pip install pandas matplotlib plotly numpy seaborn
    ```
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=black&style=for-the-badge" height="40" alt="jupyter logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo" />
+
+<span>
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" style="margin: 0 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" style="margin: 0 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" style="margin: 0 6px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo" style="margin: 0 6px;" />
+  <img src="img/1200px-Matplotlib_icon.svg.png" height="50" style="margin: 0 6px;" />
+  <img src="img/apps.36868.bfb0e2ee-be9e-4c73-807f-e0a7b805b1be.712aff5d-5800-47e0-97be-58d17ada3fb8.png" height="69" style="margin: 0 6px;" />
+  <img src="img/seaborn-logo-244EB2DEC5-seeklogo.com.png" height="69" style="margin: 0 6px;" />
+</span>
+
 </div>
 
 ## Usage
